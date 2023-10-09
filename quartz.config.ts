@@ -17,25 +17,25 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
-        lightMode: {
-          light: '#F9F2E3',  // Aged parchment
-    	  lightgray: '#D4C3A5',  // Weathered wood
-    	  gray: '#967259',  // Aged leather
-    	  darkgray: '#4F3822',  // Darkened wood
-    	  dark: '#1C140D',  // Near black
-     	  secondary: '#AA6B39',  // Rustic gold
-     	  tertiary: '#3C2F2F',  // Aged iron
-      	  highlight: 'rgba(170, 107, 57, 0.15)',  // Translucent rustic gold
+  	lightMode: {
+    	  light: '#F8F1FC',  // Lavender blush
+    	  lightgray: '#D3C1E5',  // Light Lilac
+    	  gray: '#AB83A1',  // Mauve
+    	  darkgray: '#643965',  // Plum
+    	  dark: '#321432',  // Dark Purple
+    	  secondary: '#AB498A',  // Orchid
+    	  tertiary: '#834D7A',  // Vintage Fuchsia
+    	  highlight: 'rgba(171, 73, 138, 0.15)'  // Translucent Orchid
   	},
   	darkMode: {
-    	  light: '#2C2C2C',  // Smoky black
-    	  lightgray: '#4E4E4E',  // Charcoal
-    	  gray: '#757575',  // Mid grey
-    	  darkgrkay: '#A9A9A9',  // Light grey
-    	  dark: '#FDFDFD',  // Near white
-    	  secondary: '#AA6B39',  // Rustic gold
-    	  tertiary: '#3C2F2F',  // Aged iron
-    	  highlight: 'rgba(170, 107, 57, 0.15)',  // Translucent rustic gold
+    	  light: '#2D2A33',  // Off-black with a tint of purple
+    	  lightgray: '#453A4A',  // Gunmetal with a purple tint
+    	  gray: '#6B596E',  // Slate grey with a purple tint
+    	  darkgray: '#9A8C9A',  // Lilac Grey
+    	  dark: '#EDE0ED',  // Lavender Mist
+    	  secondary: '#9C5F92',  // Dark Orchid
+    	  tertiary: '#734560',  // Byzantium
+    	  highlight: 'rgba(156, 95, 146, 0.15)'  // Translucent Dark Orchid
   	},
       /**
       colors: {
