@@ -1,3 +1,4 @@
+![[astrolabe.jpg]]
 ## Inscriptions
 ### Outer Rim Inscription
 _“By starlight’s gleam and planet’s beam, seek ye the path through the unseen seam.”_ This riddle-like phrase would guide the players to use the astrolabe under the night sky, aligning its components with celestial bodies to reveal the location of the ancient temple.
