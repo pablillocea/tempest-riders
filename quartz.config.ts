@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "☠️ The Tempest Riders & The Stralit Key ✨",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Pirata One",
+        body: "JetBrains Mono",
         code: "IBM Plex Mono",
       },
       colors: {
