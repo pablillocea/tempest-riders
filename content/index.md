@@ -1,17 +1,31 @@
 ---
 title: Campaign Notes
 ---
-In this age of piracy, the coastal realms of Faerûn are a collection of powerful city-states, each governed by influential noble or merchant families. These city-states, though divergent in their interests and aspirations, have united to form a single, formidable Navy in response to the ever-growing threat of piracy.
+## ⚓ Welcome!
+I have put together this website to store and display campaign notes. As the campaign progresses, the archive will grow.
+>[!tldr] NEXT SESSION
+>2023-10-16, session 09. We pick up at the end of the celebration.
+## 🧭 Overview
+| Bag of Holding       | Factions             | Places        | Money  |
+| -------------------- | -------------------- | ------------- | ------ |
+| [[Astrolabe]]        | [[Azurian Alliance]] | [[Saltmarsh]] | 340 GP |
+| [[Conch of Sending]] | [[Crimson Kingdom]]  |               |        |
+| [[Ring(s)]]          | [[Tempest Riders]]   |               |        |
+| [[Unknown]]          | [[Seabound Sages]]   |               |        |
+## ⏳Pending Stuff
+- Meeting with [[Shoril Sirencall|Shoril]] again?
+- Dismantle the sea-side of the smuggling operation (due in day 7).
+- Rendezvous with the crew (due in day 10). 
+## 📜 Sessions
+| Date     | Number          | Summary                         |
+| -------- | --------------- | ------------------------------- |
+| -        | [[Prelude\|00]] | Events preceding the campaign   |
+| 23-05-04 | 01              | The adventure begins.           |
+| 23-05-24 | 02              | Haunted House exploration.      |
+| 23-06-14 | 03              | Homicide and reward collection. |
+| 23-06-21 | 04              | An eventful day in Saltmarsh.   |
+| 23-07-28 | 05              | Burglary and friend shooting.   |
+| 23-08-11 | 06              | A very messy combat encounter.  |
+| 23-09-02 | 07              | Saltspire mine exploration.     |
+| 23-10-02 | 08              | Boss fight and celebration.           |
 
-The governance of each city-state is overseen by a council, composed of representatives from the ruling family, merchant guilds, and prominent organisations. These councils are responsible for making decisions that affect their city-states, such as levying taxes, establishing trade agreements, and maintaining relations with the other city-states. In addition, each council appoints one high-ranking officer to represent their city-state in the Navy's leadership.
-
-The Navy itself operates under a rotating command, with the highest-ranking officer from each city-state taking turns in the position of Admiral. This system of governance is designed to ensure that no single city-state holds too much power over the Navy and that the interests of all city-states are equally represented.
-
-Currently, the Navy is led by the stern and respected Admiral Lirien Valanthir. Under her command, the Navy has focused on maintaining order and upholding the law in their ongoing battle against piracy. However, there are other, more ruthless Vice-Admirals, who might have their own ideas about how best to eliminate the pirate threat—ideas that may lead to some controversial decisions and precarious alliances.
-
-Despite the united front presented by the Navy, tensions and conflicts run deep within the city-states, fuelled by significant social and economic inequality. The opulent lifestyles of the ruling families and merchant guilds stand in stark contrast to the hardships faced by the lower classes. Corruption is rampant, and the city-states' leaders often exploit their power for personal gain.
-
-Against this backdrop of inequality and injustice, the Tempest Riders, as Robin Hood-like figures, are becoming some sort of folk heroes to the common people, who view them as a symbol of resistance against the oppressive ruling class. Lead by Captain Gale Whiskerwind, they only steal from the wealthy and the Navy, sparing small merchants, fisherman, and civilians, and later spending their loot lavishly at the poorest of towns.
-## Bag of Holding
-You currently possess the following items:
-- **Astrolabe:** Ancient looking astrolabe with magical properties pr

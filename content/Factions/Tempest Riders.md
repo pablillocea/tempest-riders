@@ -13,7 +13,7 @@ The Tempest Riders are a lively, freedom-loving group of pirates known for their
 | Gale Whiskerwind | Captain       | Location unknown. Condition unsafe. |
 | Shoril           | First-mate    | Currently in Saltmarsh?             |
 | Thora            | Quartermaster | Unknown                             |
-| Iago             |               | Traitor, Deserter                   |
+| <s>Iago</s>      | Traitor       | Deserter                            |
 | Bram             |               | Player Character                    |
 | Kai              |               | Player Character                    |
 | Theo             |               | Player Character                    |

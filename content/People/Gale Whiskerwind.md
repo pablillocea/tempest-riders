@@ -4,5 +4,4 @@ rank: Captain
 tags:
   - NPC
 ---
-
 Captain

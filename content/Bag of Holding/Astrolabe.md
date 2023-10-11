@@ -2,18 +2,17 @@
 tags:
   - object
 ---
-
 ![[astrolabe.jpg]]
 ## Description
-An ancient astrolabe stolen from the navy. A slot in the back of the object matched captain [[Gale Whiskerwind]]'s ring, which unlocked .
+An ancient astrolabe stolen from the navy. A slot in the back of the object matched captain [[Gale Whiskerwind]]'s [[Ring(s)|ring]], which unlocked .
 
 So far the party knows a few things:
 - Magic protects it from being destroyed.
-- The captain's ring was passed down by her grandmother, who used to sing her a hunting [[lullaby]]. Based on this connection, [[Gale Whiskerwind|Gale]] 
-- It might be related to an old order by the name of the [[Seabound Sages]].
-
-
+- The captain's [[Ring(s)|ring]] was passed down by her grandmother, who used to sing her a hunting [[Lullaby]]. Based on this connection, [[Gale Whiskerwind|Gale]] decided to investigate further.
+- For some reason, the [[Crimson Kingdom]] wants this object at any cost. The [[Azurian Alliance]] has not yet made any move to get it back.
+- More recent findings reveal that it seems to be related to an old order by the name of the [[Seabound Sages]].
 ## Inscriptions
+The astrolabe has coded inscriptions on it. There’s text in the outer rim, in the inner disc, and on the back, around the slot where the [[Ring(s)|rings]] fit.
 ### Outer Rim Inscription
 ?
 ### Inner Disc Inscription
