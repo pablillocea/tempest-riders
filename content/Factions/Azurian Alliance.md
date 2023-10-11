@@ -4,6 +4,7 @@ tags:
   - faction
 ---
 ![[azurian-alliance.png]]
+
 The Azurian Alliance is a formal coalition of naval powers that represent different nations across the world. Formed in the face of growing pirate threats, the Alliance is a testament to the cooperative spirit—at least on paper—of its member nations, aimed at maintaining peace and stability on the high seas.
 
 Fleet Admiral [[Lirien Ravenrest|Lirien Ravenrest]], a noble elf from Ulek, is the current leader of the Alliance. She is revered for her wisdom, foresight, and tactical prowess. She is aided by Vice-Admirals from each member nation, including Vice-Admiral [[Darius Ironhand|Darius Ironhand]], a ruthless and ambitious man from Keoland.

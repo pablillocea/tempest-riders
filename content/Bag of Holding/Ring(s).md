@@ -3,6 +3,8 @@ tags:
   - object
 ---
 ![[ouroboros-ring.png]]
+
+## Description
 So far the party has encountered two rings featuring two intertwined snakes.
 ## First Ring
 The first ring came from Captain [[Gale Whiskerwind|Gale]]. She got it from her grandmother and always wore it without giving it much thought. Until the [[Tempest Riders]] stole the ancient [[Astrolabe]] and discovered the slot in the back.

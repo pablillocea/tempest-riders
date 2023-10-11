@@ -21,9 +21,7 @@ Under the cover of darkness, you managed to steal valuable loot from a Navy ship
 
 Upon inspecting the astrolabe herself, the captain's curiosity turned to worry. As she twisted her ring on the slot, the object came loose, and her concern now changed into fear. She smashed it on the ground, but the astrolabe reconstructed itself. She tried a few more unsuccessful approaches until the crew intervened to calm her down.
 
-Once she had collected herself, she gathered the whole crew and shared how she received the ring from her grandmother, who would sing a haunting lullaby that she could now barely recall.
-
-![[Lullaby]]
+Once she had collected herself, she gathered the whole crew and shared how she received the ring from her grandmother, who would sing a haunting [[Lullaby|lullaby]] that she could now barely recall.
 
 She wasn’t sure what to make of it. The information you all had was too little and the risk too high. So the crew agreed to investigate—and definitely keep the object safe from the clutches of the Navy.
 
