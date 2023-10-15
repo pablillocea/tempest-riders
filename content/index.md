@@ -6,12 +6,20 @@ I have put together this website to store and display campaign notes. As the cam
 >[!tldr] NEXT SESSION
 >2023-10-16, session 09. We pick up at the end of the celebration.
 ## 🧭 Overview
-| Bag of Holding       | Factions             | Places        | Money  |
-| -------------------- | -------------------- | ------------- | ------ |
-| [[Astrolabe]]        | [[Azurian Alliance]] | [[Saltmarsh]] | 340 GP |
-| [[Conch of Sending]] | [[Crimson Kingdom]]  |               |        |
-| [[Ring(s)]]          | [[Tempest Riders]]   |               |        |
-| [[Unknown]]          | [[Seabound Sages]]   |               |        |
+### 🎒 Bag of Holding
+- [[Astrolabe]]
+- [[Conch of Sending]]
+- [[Ring(s)]]
+- [[Unknown]]
+### 👥 Factions
+- [[Azurian Alliance]]
+- [[Crimson Kingdom]]
+- [[Tempest Riders]]
+- [[Seabound Sages]]
+### 📍Places
+- [[Saltmarsh]]
+### 💰 Money
+- 340 GP
 ## ⏳Pending Stuff
 - Meeting with [[Shoril Sirencall|Shoril]] again?
 - Dismantle the sea-side of the smuggling operation (due in day 7).
