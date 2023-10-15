@@ -2,6 +2,7 @@
 tags:
   - NPC
 ---
+![[eadric.png]]
 Alchemist of sinister reputation. Resided in [[Saltmarsh]] until 20 years ago when he disappeared and was presumed dead. His tombstone was engraved with two snakes eating each other’s tails.
 ## Eadric’s Journal
 In the journal the party found a transcription of the [[Lullaby|lullaby]]. It’s not entirely legible. Other lines were somewhat legible still:

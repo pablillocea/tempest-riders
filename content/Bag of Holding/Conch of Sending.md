@@ -5,7 +5,7 @@ tags:
 ![[Conch_of_sending.png]]
 
 ## Description
-This enchanted conch (won at an auction for 250 GP) has one charge of the spell [sending](https://www.dndbeyond.com/spells/sending) per day.
+This enchanted conch (won at an auction in [[Saltmarsh]] for 250 GP) has one charge of the spell [sending](https://www.dndbeyond.com/spells/sending) per day.
 ## Messages sent
 ### 1. Session 09, 2023-10-02
 #### Message for the captain

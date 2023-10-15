@@ -2,7 +2,7 @@
 title: Campaign Notes
 ---
 ## ⚓ Welcome!
-I have put together this website to store and display campaign notes. As the campaign progresses, the archive will grow.
+I have put together this website to store and display campaign notes. As the campaign progresses, the archive will grow. All of the pictures are just a general reference and have been produced with DALL-E 3.
 >[!tldr] NEXT SESSION
 >2023-10-16, session 09. We pick up at the end of the celebration.
 ## 🧭 Overview

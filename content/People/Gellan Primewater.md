@@ -3,7 +3,6 @@ tags:
   - NPC
 ---
 ![[gellan.jpg]] 
-
 Gellan is a well-spoken, dapper older gentleman with a neatly trimmed beard and a fancy wardrobe. With his cunning instincts, he has positioned his family to become the most prominent merchants in town.
 
 Because Gellan is the wealthiest man in town, he garners a great deal of popular support from the many feasts, entertainments, and other diversions he supports with expenditures and donations. He appears to care little for the daily functions of the council, defaulting to throw his support behind other council members.
